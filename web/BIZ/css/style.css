@@ -1,0 +1,261 @@
+@font-face {
+	font-family: 'Myriad Pro Bold';
+	src: url('../fonts/MyriadPro-BoldCond.otf');
+}
+
+@font-face {
+	font-family: 'Myriad Pro Light';
+	src: url('../fonts/MyriadPro-LightCond.otf');
+}
+
+@font-face {
+	font-family: 'Myriad Pro Semi';
+	src: url('../fonts/MyriadPro-Semibold.otf');
+}
+
+@font-face {
+	font-family: 'Myriad Pro Regular';
+	src: url('../fonts/MyriadPro-Regular.otf');
+}
+
+@font-face {
+	font-family: 'Myriad Pro L';
+	src: url('../fonts/MyriadPro-Light.otf');
+}
+
+.page {
+	width: 775px;
+	margin: 32px auto;
+}
+
+#menu {
+	text-align: center;
+}
+
+#menu li {
+	text-align: center;
+	display: inline-block;
+	width: 117.5px;
+}
+
+li:nth-child(2) {
+	position: relative;
+	left: 5px;
+}
+
+li:nth-child(3) {
+	position: relative;
+	left: 6px;
+}
+
+li:nth-child(4) {
+	position: relative;
+	right: -9px;
+}
+
+li:nth-child(5) {
+	position: relative;
+	left: 2.5px;
+}
+
+li:nth-child(6) {
+	position: relative;
+	right: 6.5px;
+}
+
+#menu a {
+	color: #000;
+	text-decoration: none;
+	font-family: Myriad Pro Bold;
+}
+
+#main {
+	width: 775px;
+	position: relative;
+	/*border: 1px solid #000;*/
+	display: inline-block;
+	top: 30px;
+}
+
+#logo-slogan {
+	background-image: url('../img/draw1.png');
+	background-repeat: no-repeat;
+	width: 775px;
+	height: 245px;
+}
+
+#layer1 {
+	float: left;
+	width: 30px;
+	height: 300px;
+	background-image: url('../img/draw.png');
+	margin-top: -1px;
+}
+
+#logo-text {
+	float: left;
+	width: 152px;
+	height: 300px;
+	background-image: url('../img/logo.png');
+	background-repeat: no-repeat;
+	background-position: 64% 1%;
+	margin-top: 50px;
+}
+
+#logo-text #txt {
+	font-family: Myriad Pro Light;
+	font-size: 41px;
+	position: relative;
+	top: 84px;
+	left: 27px;
+}
+
+#logo-text #txt-left {
+  	text-align: left;
+  	display: inline-block;
+	color: #FFBC65;
+	display: inline;
+}
+
+#logo-text #txt-right {
+	margin-left: -5px;
+	color: #fff;
+	display: inline;
+}
+
+#under-logo-text {
+	font-size: 12px;
+	font-family: 'Myriad Pro Semi';
+	color: #646464;
+	margin-top: -8px;
+	margin-left: -7px;
+}
+
+#slogan-text {
+	float: right;
+  	width: 200px;
+  	height: 162px;
+  	padding-top: 81px;
+}
+
+#we_work {
+	font-size: 41px;
+	font-family: 'Myriad Pro Light';
+	display: inline;
+	margin-left: 8px;
+	padding-right: 65px;
+}
+
+#for_your_prosperity {
+	font-size: 18px;
+	font-family: 'Myriad Pro Bold';
+	color: #FF8A00;
+	display: inline;
+	position: relative;
+	top: -12px;
+	left: 13px;
+	padding-right: 48px;
+	border-bottom: 1px solid #000;
+}
+
+#support-info {
+	margin-left: -1px;
+	position: inherit;
+	width: 775px;
+	height: 200px;
+	background-image: url('../img/draw2.png');
+	background-repeat: no-repeat;
+	border: 1px solid #fff;
+}
+
+#support-logo {
+	background-image: url('../img/support-icon.png');
+	background-repeat: no-repeat;
+	width: 30px;
+	height: 31px;
+	margin-left: 42px;
+	margin-top: 16px;
+}
+
+#support-txt {
+	width: 145px;
+	height: 50px;
+	display: inline-block;
+	position: inherit;
+	top: -34px;
+	left: -103px;
+}
+
+#support-txt #txt-top {
+	position: inherit;
+	color: #fff;
+	font-family: 'Myriad Pro Regular';
+	font-size: 20px;
+	display: inline;
+}
+
+#support-txt #txt-bottom {
+	position: inherit;
+	font-family: 'Tahoma';
+	font-size: 10px;
+	color: #fff;
+	line-height: 5px;
+}
+
+
+
+#clock-img {
+	background-image: url('../img/clock-shadow.png'),
+					  url('../img/clock.png');
+	background-repeat: no-repeat;
+	background-position: 224% 111%,
+						 0% 0%;
+	width: 108px;
+	height: 130px;
+	position: inherit;
+	left: 247px;
+	top: -86px;
+}
+
+#txt-after-clock {
+	position: relative;
+	width: 390px;
+	height: 120px;
+	display: inline-block;
+	top: -211px;
+	left: 355px;
+
+}
+
+#txt-after-clock #head {
+	width: 205px;
+	font-size: 30px;
+	font-family: 'Myriad Pro Light';
+  	color: #fff;
+	display: inline;
+}
+
+#txt-after-clock #in-time {
+	display: inline;
+	width: 105px;
+	font-size: 29px;
+	font-family: 'Myriad Pro Semi';
+	color: #000;
+}
+
+#lorem-ipsum {
+	color: #FFBC65;
+	font-size: 10px;
+	font-family: 'Tahoma';
+	line-height: 0px;
+	margin-left: 3px;
+
+}
+
+#btm-layer {
+	background-image: url('../img/draw2.png');
+	background-repeat: no-repeat;
+	width: 550px;
+	height: 35px;
+	float: right;
+}

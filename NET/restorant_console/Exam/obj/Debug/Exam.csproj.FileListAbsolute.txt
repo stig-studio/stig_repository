@@ -1,0 +1,6 @@
+D:\Nikita\!\c#\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+D:\Nikita\!\c#\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Nikita\!\c#\Exam\Exam\bin\Debug\Exam.exe
+D:\Nikita\!\c#\Exam\Exam\bin\Debug\Exam.pdb
+D:\Nikita\!\c#\Exam\Exam\obj\Debug\Exam.exe
+D:\Nikita\!\c#\Exam\Exam\obj\Debug\Exam.pdb

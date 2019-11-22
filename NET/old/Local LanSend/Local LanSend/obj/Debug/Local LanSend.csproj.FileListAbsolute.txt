@@ -1,0 +1,12 @@
+C:\!\с++\Local LanSend\Local LanSend\bin\Debug\Local LanSend.exe.config
+C:\!\с++\Local LanSend\Local LanSend\bin\Debug\Local LanSend.exe
+C:\!\с++\Local LanSend\Local LanSend\bin\Debug\Local LanSend.pdb
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local LanSend.csprojResolveAssemblyReference.cache
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local_LanSend.Form1.resources
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local_LanSend.Properties.Resources.resources
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local LanSend.csproj.GenerateResource.Cache
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local LanSend.csproj.CoreCompileInputs.cache
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local LanSend.exe
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local LanSend.pdb
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local_LanSend.AutherForm.resources
+C:\!\с++\Local LanSend\Local LanSend\obj\Debug\Local_LanSend.Resource1.resources

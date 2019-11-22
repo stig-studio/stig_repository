@@ -1,0 +1,10 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "html-pdf": "^2.2.0",
+    "requestify": "^0.2.5"
+  }
+}

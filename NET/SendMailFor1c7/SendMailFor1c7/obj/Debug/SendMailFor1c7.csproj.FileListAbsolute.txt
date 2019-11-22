@@ -1,0 +1,7 @@
+c:\users\stig\source\repos\SendMailFor1c7\SendMailFor1c7\bin\Debug\SendMailFor1c7.dll
+c:\users\stig\source\repos\SendMailFor1c7\SendMailFor1c7\bin\Debug\SendMailFor1c7.pdb
+c:\users\stig\source\repos\SendMailFor1c7\SendMailFor1c7\bin\Debug\SendMailFor1c7.tlb
+c:\users\stig\source\repos\SendMailFor1c7\SendMailFor1c7\obj\Debug\SendMailFor1c7.csprojAssemblyReference.cache
+c:\users\stig\source\repos\SendMailFor1c7\SendMailFor1c7\obj\Debug\SendMailFor1c7.csproj.CoreCompileInputs.cache
+c:\users\stig\source\repos\SendMailFor1c7\SendMailFor1c7\obj\Debug\SendMailFor1c7.dll
+c:\users\stig\source\repos\SendMailFor1c7\SendMailFor1c7\obj\Debug\SendMailFor1c7.pdb

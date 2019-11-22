@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="main">
+        <div class="bl1">
+            <div class="msg">Повідомлення</div>
+            <div class="caption">Об'єднання співвласників багатоквартирного будинку "Родникова 9-А"<br>
+                ЄДРПОУ: 40407124 р\р № 26003052218703; ПАТ КБ "Приватбанк", МФО 351533
+            </div>
+            <div class="tb1">
+                <table border="1">
+                    <tr id="r_1"><td>особ. рах. № <%= info.checking_account %></td><td colspan="2"></td></tr>
+                    <tr id="r_2"><td colspan="3">Адреса: <%= info.address %>, кв. <%= info.apartment_number %></td></tr>
+                    <tr id="r_3"><td>Вид платежу</td><td>місяць</td><td>рік</td><td>Сума до сплати</td></tr>
+                    <tr id="r_4"><td>Внесок на утримання будинку та<br> прибудинкової території:</td>
+                        <td align="center"><%= parseInt( month_number ) %></td>
+                        <td align="center"><%= year_number %></td>
+                        <td rowspan="2" align="center"><%= info.to_pay %></td>
+                    </tr>
+                    <tr id="r_5"><th>Всього до сплати&nbsp;</th><td colspan="2"></td></tr>
+                    <tfoot>
+                        <tr>
+                            <td align="left">Підпис платника</td>
+                        </tr>
+                    </tfoot>
+                    
+                </table>
+            </div>
+        </div>
+        <div class="bl_r">
+            <div class="bl2">
+                <div class="_receipt">
+                    Квитанція<br>на оплату комунальних послуг за<br>
+                    <span><%= month_name %></span>
+                </div>
+                <div class="recipient_payer">
+                    <span>Одержувач</span><br>
+                    <span>Платник</span>
+                </div>
+                <div class="caption_bl2">
+                    <span>Об'єднання співвласників багатоквартирного будинку "Родникова 9-А"<br>
+                    ЄДРПОУ: 40407124 р\р № 26003052218703; ПАТ КБ "Приватбанк",<br>МФО 351533</span>
+                    <span><%= info.f_name %>, <%= info.address %></span>
+                </div>
+                <div class="tb2">
+                    <table>
+                        <tr><td style="width: 200px;">№ о/рахунка</td><th style="text-align: right; border: 1px solid #000000; width: 100px;"><%= info.checking_account %></th></tr>
+                        <tr><td>Сальдо на 01.<%= month_number + "." + year_number %></td><td style="text-align: right"><%= info.balance %></td></tr>
+                    </table>
+                </div>
+            </div>
+            <br>
+            <br>
+            <table class="tb3" border="1">
+                <tr><th>Вид платежу</th><th>Попер</th><th>Поточ</th><th>Тариф</th><th>Кількість</th><th>Сума</th><th>Субс./Пільга</th><th>Нараховано</th></tr>
+                <tr><td>&nbsp;<%= info.payment_type_1 %></td><td><%= info.previous_1 %></td><td><%= info.current_1 %></td><td><%= info.rate_1 %></td><td><%= info.quantity_1 %></td><td><%= info.sum_1 %></td><td><%= info.subsidy_1 %></td><td><%= info.accrued_1 %></td></tr>
+                <tr><td>&nbsp;<%= info.payment_type_2 %></td><td><%= info.previous_2 %></td><td><%= info.current_2 %></td><td><%= info.rate_2 %></td><td><%= info.quantity_2 %></td><td><%= info.sum_2 %></td><td><%= info.subsidy_2 %></td><td><%= info.accrued_2 %></td></tr>
+                <tr><td>&nbsp;<%= info.payment_type_3 %></td><td><%= info.previous_3 %></td><td><%= info.current_3 %></td><td><%= info.rate_3 %></td><td><%= info.quantity_3 %></td><td><%= info.sum_3 %></td><td><%= info.subsidy_3 %></td><td><%= info.accrued_3 %></td></tr>
+                <tr><td>&nbsp;<%= info.payment_type_4 %></td><td><%= info.previous_4 %></td><td><%= info.current_4 %></td><td><%= info.rate_4 %></td><td><%= info.quantity_4 %></td><td><%= info.sum_4 %></td><td><%= info.subsidy_4 %></td><td><%= info.accrued_4 %></td></tr>
+                <tr><th colspan="7">&nbsp;Нараховано</th><td><%= info.counted %></td></tr>
+                <tr><th colspan="7">&nbsp;Сплачено</th><td><%= info.paid %></td></tr>
+                <tr><td></td><th colspan="7">&nbsp;До сплати: <%= info.balance %> + <%= info.counted %> - <%= info.paid %> = <%= info.to_pay %></th></tr>
+                <tr><th colspan="8">&nbsp;Сальдо на 01.<%= next_month_number + "." + next_year_number %> р.: <%= info.balance_next %>( Без урахування електроенергії )</th></tr>
+            </table>
+            <p style="margin-left: 20px; margin-top: -15px;">Термін сплати до 20 числа поточного місяця <span style="margin-left: 400px"> тел. для довідок 067-57-47-138</span></p>
+        </div>
+    </div>
+</body>
+</html>

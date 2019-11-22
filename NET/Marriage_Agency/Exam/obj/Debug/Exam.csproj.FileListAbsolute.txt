@@ -1,0 +1,11 @@
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.Clients.resources
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.main_form.resources
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\STIG\OneDrive\Классная работа\c#\2019\07.03.2019\Exam\Exam\obj\Debug\Exam.About.resources

@@ -1,0 +1,9 @@
+D:\Nikita\!\c#\GameLuk\GameLuk\bin\Debug\GameLuk.exe
+D:\Nikita\!\c#\GameLuk\GameLuk\bin\Debug\GameLuk.pdb
+D:\Nikita\!\c#\GameLuk\GameLuk\obj\Debug\GameLuk.csprojAssemblyReference.cache
+D:\Nikita\!\c#\GameLuk\GameLuk\obj\Debug\GameLuk.Form1.resources
+D:\Nikita\!\c#\GameLuk\GameLuk\obj\Debug\GameLuk.Properties.Resources.resources
+D:\Nikita\!\c#\GameLuk\GameLuk\obj\Debug\GameLuk.csproj.GenerateResource.cache
+D:\Nikita\!\c#\GameLuk\GameLuk\obj\Debug\GameLuk.csproj.CoreCompileInputs.cache
+D:\Nikita\!\c#\GameLuk\GameLuk\obj\Debug\GameLuk.exe
+D:\Nikita\!\c#\GameLuk\GameLuk\obj\Debug\GameLuk.pdb

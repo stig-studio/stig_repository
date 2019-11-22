@@ -1,0 +1,6 @@
+D:\Nikita\!\c#\Game\Game\bin\Debug\Game.exe
+D:\Nikita\!\c#\Game\Game\bin\Debug\Game.pdb
+D:\Nikita\!\c#\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Nikita\!\c#\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Nikita\!\c#\Game\Game\obj\Debug\Game.exe
+D:\Nikita\!\c#\Game\Game\obj\Debug\Game.pdb

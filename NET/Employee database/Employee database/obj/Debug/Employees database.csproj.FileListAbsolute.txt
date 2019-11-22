@@ -1,0 +1,17 @@
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\bin\Debug\Employees database.exe.config
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\bin\Debug\Employees database.exe
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\bin\Debug\Employees database.pdb
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees database.csprojAssemblyReference.cache
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\MainWindow.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\start_page.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\App.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees database_MarkupCompile.cache
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees database_MarkupCompile.lref
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\MainWindow.baml
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\start_page.baml
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees database.g.resources
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees_database.Properties.Resources.resources
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees database.csproj.GenerateResource.cache
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees database.csproj.CoreCompileInputs.cache
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees database.exe
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employees database.pdb

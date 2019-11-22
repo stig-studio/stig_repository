@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<ArrayOfDish xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dish>
+    <name>Карпаччо из говядины с рукколой</name>
+    <type>холодное</type>
+    <price>168</price>
+  </Dish>
+  <Dish>
+    <name>Лосось с сыром Чеддер</name>
+    <type>холодное</type>
+    <price>198</price>
+  </Dish>
+  <Dish>
+    <name>Паштет из печени индейки</name>
+    <type>холодное</type>
+    <price>110</price>
+  </Dish>
+  <Dish>
+    <name>Тартар из дикого тунца и авокадо</name>
+    <type>холодное</type>
+    <price>182</price>
+  </Dish>
+  <Dish>
+    <name>Брускетты с хамоном</name>
+    <type>холодное</type>
+    <price>92</price>
+  </Dish>
+  <Dish>
+    <name>Брускетты с томатами и моцареллой</name>
+    <type>холодное</type>
+    <price>72</price>
+  </Dish>
+  <Dish>
+    <name>Брускетты с паштетом из индейки</name>
+    <type>холодное</type>
+    <price>72</price>
+  </Dish>
+  <Dish>
+    <name>Брускетты с семгой</name>
+    <type>холодное</type>
+    <price>122</price>
+  </Dish>
+  <Dish>
+    <name>Салат с ростбифом</name>
+    <type>холодное</type>
+    <price>156</price>
+  </Dish>
+  <Dish>
+    <name>Фреш-салат со слабосоленой семгой</name>
+    <type>холодное</type>
+    <price>156</price>
+  </Dish>
+  <Dish>
+    <name>Фирменный Цезарь</name>
+    <type>холодное</type>
+    <price>156</price>
+  </Dish>
+  <Dish>
+    <name>Салат с хамоном Серрано</name>
+    <type>холодное</type>
+    <price>156</price>
+  </Dish>
+  <Dish>
+    <name>Микс-салат с утиной грудкой</name>
+    <type>холодное</type>
+    <price>156</price>
+  </Dish>
+  <Dish>
+    <name>Салат с копченым угрем</name>
+    <type>холодное</type>
+    <price>200</price>
+  </Dish>
+  <Dish>
+    <name>Суп Том Ям с морепродуктами</name>
+    <type>гарячее</type>
+    <price>324</price>
+  </Dish>
+  <Dish>
+    <name>Андалузский гаспаччо с крутонами</name>
+    <type>гарячее</type>
+    <price>42</price>
+  </Dish>
+  <Dish>
+    <name>Севильский суп</name>
+    <type>гарячее</type>
+    <price>52</price>
+  </Dish>
+  <Dish>
+    <name>Суп из каре молодого ягненка</name>
+    <type>гарячее</type>
+    <price>76</price>
+  </Dish>
+  <Dish>
+    <name>Грин-крем с белыми грибами</name>
+    <type>гарячее</type>
+    <price>86</price>
+  </Dish>
+  <Dish>
+    <name>Крем-суп из креветок</name>
+    <type>гарячее</type>
+    <price>122</price>
+  </Dish>
+  <Dish>
+    <name>Испанский суп с морепродуктами</name>
+    <type>гарячее</type>
+    <price>132</price>
+  </Dish>
+  <Dish>
+    <name>Борщ с телятиной</name>
+    <type>гарячее</type>
+    <price>78</price>
+  </Dish>
+  <Dish>
+    <name>Карпатская грибная юшка</name>
+    <type>гарячее</type>
+    <price>78</price>
+  </Dish>
+  <Dish>
+    <name>Бограч по-закарпатски</name>
+    <type>гарячее</type>
+    <price>98</price>
+  </Dish>
+</ArrayOfDish>

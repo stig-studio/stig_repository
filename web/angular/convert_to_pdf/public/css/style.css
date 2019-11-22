@@ -1,0 +1,123 @@
+/* 
+div {
+    border: 1px solid black;
+} */
+
+.bl1 {
+    display: block;
+    width: 1000px;
+    height: 300px;
+    padding: 20px;
+    border-bottom: 2px dotted #000000;
+}
+
+.msg {
+    display: block;
+    width: 100%;
+    font-weight: bold;
+}
+
+.caption {
+    float: right;
+}
+
+.tb1 {
+    border-collapse: collapse;
+    float: right;
+}
+
+.tb1 td {
+    text-align: center;
+    padding: 5px;
+}
+
+.tb1 td:nth-child(1) {
+    width: 320px;
+}
+
+.tb1 #r_5 th {
+    text-align: right;
+}
+
+.tb1 tfoot td {
+    text-align: left;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+
+.bl_r {
+    width: 1000px;
+    border-bottom: 2px dotted #000000;
+}
+
+.bl2 {
+    display: block;
+    width: 1000px;
+    height: 130px;
+    padding: 20px;
+}
+
+.cont {
+    display: flex;
+    width: 1000px;
+    height: 130px;
+    padding: 20px;
+}
+
+._receipt {
+    display: inline-flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+._receipt span {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: right;
+}
+
+.recipient_payer {
+
+    display: inline-flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.recipient_payer span {
+    line-height: 40px;
+}
+
+.caption_bl2 {
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.caption_bl2 span:nth-child(2) {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.tb2 {
+    display: inline-flex;
+    float: right;
+}
+
+.tb3 {
+    margin: 20px;
+    width: 100%;
+}
+
+.tb3 tr:nth-child(1) th {
+    text-align: center;
+}
+
+.tb3 tr td {
+    text-align: center;
+}
+
+.tb3 tr td:nth-child(1) {
+    text-align: left;
+}

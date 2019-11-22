@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FFA0EEC7-01BE-455A-A30E-EA8DDD89EC55}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>School_magazine</RootNamespace>
+    <AssemblyName>School magazine</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>appicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_classes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_classes.Designer.cs">
+      <DependentUpon>add_classes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_new_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_new_student.Designer.cs">
+      <DependentUpon>add_new_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_notice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_notice.Designer.cs">
+      <DependentUpon>add_notice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_subjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_subjects.Designer.cs">
+      <DependentUpon>add_subjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_subject_for_schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_subject_for_schedule.Designer.cs">
+      <DependentUpon>add_subject_for_schedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_subj_for_journal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_subj_for_journal.Designer.cs">
+      <DependentUpon>add_subj_for_journal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="authorization.Designer.cs">
+      <DependentUpon>authorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_employee.Designer.cs">
+      <DependentUpon>edit_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_student.Designer.cs">
+      <DependentUpon>edit_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeItem.Designer.cs">
+      <DependentUpon>EmployeeItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_page.Designer.cs">
+      <DependentUpon>main_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="models\Class.cs" />
+    <Compile Include="models\Employee.cs" />
+    <Compile Include="models\Lesson.cs" />
+    <Compile Include="models\MarkAndVisit.cs" />
+    <Compile Include="models\RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="models\ShadowPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="models\Student.cs" />
+    <Compile Include="models\Subject.cs" />
+    <Compile Include="new_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_employee.Designer.cs">
+      <DependentUpon>new_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="new_lesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_lesson.Designer.cs">
+      <DependentUpon>new_lesson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoticeItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NoticeItem.Designer.cs">
+      <DependentUpon>NoticeItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule.Designer.cs">
+      <DependentUpon>Schedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="start_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="start_page.Designer.cs">
+      <DependentUpon>start_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="models\session_parameters.cs" />
+    <Compile Include="models\sql_data.cs" />
+    <Compile Include="models\User.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentItem.Designer.cs">
+      <DependentUpon>StudentItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_info.Designer.cs">
+      <DependentUpon>user_info.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="add_classes.resx">
+      <DependentUpon>add_classes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_new_student.resx">
+      <DependentUpon>add_new_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_notice.resx">
+      <DependentUpon>add_notice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_subjects.resx">
+      <DependentUpon>add_subjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_subject_for_schedule.resx">
+      <DependentUpon>add_subject_for_schedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_subj_for_journal.resx">
+      <DependentUpon>add_subj_for_journal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="authorization.resx">
+      <DependentUpon>authorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_employee.resx">
+      <DependentUpon>edit_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_student.resx">
+      <DependentUpon>edit_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeItem.resx">
+      <DependentUpon>EmployeeItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_page.resx">
+      <DependentUpon>main_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_employee.resx">
+      <DependentUpon>new_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_lesson.resx">
+      <DependentUpon>new_lesson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoticeItem.resx">
+      <DependentUpon>NoticeItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule.resx">
+      <DependentUpon>Schedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="start_page.resx">
+      <DependentUpon>start_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StudentItem.resx">
+      <DependentUpon>StudentItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_info.resx">
+      <DependentUpon>user_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="appicon.ico" />
+    <Content Include="image\start_page.jpg" />
+    <None Include="Resources\checkmark_ red_18px.png" />
+    <None Include="Resources\checkmark_18px.png" />
+    <None Include="Resources\shadow.png" />
+    <None Include="Resources\school_30px.png" />
+    <None Include="Resources\admin_settings_male_30px.png" />
+    <None Include="Resources\book_32.png" />
+    <None Include="Resources\book_20.png" />
+    <None Include="Resources\home_20px.png" />
+    <None Include="Resources\61083559_images_8644007727.jpg" />
+    <None Include="Resources\mathematics.jpg" />
+    <None Include="Resources\search_15.png" />
+    <None Include="Resources\admin_settings_32.png" />
+    <None Include="Resources\close-20.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\employee-30.png" />
+    <None Include="Resources\employee-24.png" />
+    <None Include="Resources\icons8-user-20.png" />
+    <None Include="Resources\add_black_20.png" />
+    <None Include="Resources\high-priority-48.png" />
+    <None Include="Resources\high-priority.png" />
+    <None Include="Resources\545121245121.jpg" />
+    <None Include="Resources\412124521.jpg" />
+    <None Include="Resources\commercial.png" />
+    <None Include="Resources\note_20.png" />
+    <None Include="Resources\note.png" />
+    <None Include="Resources\schedule.png" />
+    <None Include="Resources\edit_black_20.png" />
+    <None Include="Resources\photo_default.png" />
+    <None Include="Resources\arrow_right.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\edit_20.png" />
+    <None Include="Resources\group_users.png" />
+    <None Include="Resources\start_page.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

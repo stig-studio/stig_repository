@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include( "./header.ejs" ) %>
+<body>
+    <div class="menu">
+        <ul>
+            <a href="/"><li class="menu_not_active">HOME</li></a>
+            <li class="menu_active">NEWS</li>
+            <a href="/bands"><li class="menu_not_active">BANDS</li></a>
+            <a href="/about"><li class="menu_not_active">ABOUT US</li></a>
+            <% if( login_pers != "" ) { %>
+                <a href="/personal_area"><li class="menu_not_active"><%= login_pers %>( Личный кабинет )</li></a>
+            <% }
+            else {%>
+                <a href="/signin"><li class="menu_not_active">SIGN IN</li></a>
+            <% } %>
+            <input type="text" placeholder="search artist or song ...">
+        </ul>
+    </div>
+    <div class="cards_news">
+        <% news_data.news.forEach( function( item ) {
+            %>
+            <div class="card">
+                <h3><%= item.title %></h3>
+                <img src="<%= item.img %>" alt="">
+                <span><%= item.descr %></span><hr>
+                <span><%= item.date_time %></span>
+            </div>
+            <%
+        });
+        %>
+    </div>
+    <%- include( "./footer.ejs" ) %>
+</body>
+</html>

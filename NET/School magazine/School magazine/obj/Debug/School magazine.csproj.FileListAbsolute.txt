@@ -1,0 +1,54 @@
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\bin\Debug\School magazine.exe
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\bin\Debug\School magazine.pdb
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.csprojAssemblyReference.cache
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.start_page.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.Properties.Resources.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.csproj.GenerateResource.cache
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.csproj.CoreCompileInputs.cache
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.exe
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.pdb
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.authorization.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\bin\Debug\School magazine.exe.config
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.main_page.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.new_employee.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.EmployeeItem.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.edit_employee.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.NoticeItem.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_notice.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.user_info.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.Schedule.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_classes.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_subjects.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_subject_for_schedule.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.StudentItem.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_new_student.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\bin\Debug\School magazine.exe.config
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\bin\Debug\School magazine.exe
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\bin\Debug\School magazine.pdb
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.csprojAssemblyReference.cache
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_classes.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_new_student.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_notice.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_subjects.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_subject_for_schedule.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.authorization.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.edit_employee.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.EmployeeItem.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.main_page.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.new_employee.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.NoticeItem.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.Schedule.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.start_page.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.Properties.Resources.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.StudentItem.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.user_info.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.csproj.GenerateResource.cache
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.csproj.CoreCompileInputs.cache
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.exe
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School magazine.pdb
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.edit_student.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.edit_student.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.new_lesson.resources
+C:\Users\STIG\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_subj_for_journal.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.add_subj_for_journal.resources
+C:\Users\STIG-\OneDrive\STIG\c#\curs\School magazine\School magazine\obj\Debug\School_magazine.new_lesson.resources

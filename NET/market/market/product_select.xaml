@@ -1,0 +1,33 @@
+﻿<Window x:Class="market.product_select"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:market"
+        mc:Ignorable="d"
+        Title="" Height="200" Width="400" Background="DimGray" MaxHeight="200" MaxWidth="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="98*"/>
+            <ColumnDefinition Width="167*"/>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="59*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Введите количество товара для покупки" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4"
+               HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="14" FontWeight="Bold"/>
+        <Label Name="lbl_prod_name" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" Foreground="White" FontSize="11"/>
+        <Label Name="lbl_prod_price" Grid.Column="2" Grid.Row="1" Foreground="White" FontSize="11"/>
+        <Label Name="lbl_prod_balance" Grid.Column="3" Grid.Row="1" Foreground="White" FontSize="11"/>
+        <Label Content="К-во товара:" Grid.Column="0" Grid.Row="2" Foreground="White" FontSize="12" VerticalAlignment="Center"
+               FontWeight="Bold" Padding="15 0 0 0"/>
+        <TextBox Name="txt_b_count" Grid.Column="1" Grid.Row="2" Height="30" Padding="5"/>
+        <Button Name="btn_ok" Content="OK" Grid.Column="2" Grid.Row="2" Grid.ColumnSpan="2" Margin="5"
+                Background="DodgerBlue" Foreground="White" Click="btn_ok_Click"/>
+    </Grid>
+</Window>

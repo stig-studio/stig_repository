@@ -1,0 +1,8 @@
+{
+    "users_data":   "./files/users.txt",
+    "index_data":   "./files/index.txt",
+    "news_data":    "./files/news.json",
+    "bands_data":   "./files/bands.json",
+    "about_data":   "./files/about.txt",
+    "modules":      "./modules/func_lib.js"
+}

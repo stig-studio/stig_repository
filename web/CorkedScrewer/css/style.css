@@ -1,0 +1,561 @@
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,dialog,div,dl,dt,em,embed,fieldset,figcaption,figure,font,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,hr,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,meter,nav,object,ol,output,p,pre,progress,q,rp,rt,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video,xmp {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+}
+html,body {
+  height: 100%;
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+  display: block;
+}
+b,strong {
+  font-weight: bold;
+}
+img {
+  color: transparent;
+  font-size: 0;
+  vertical-align: middle;
+  -ms-interpolation-mode: bicubic;
+}
+ol,ul {
+  list-style: none;
+}
+li {
+  display: list-item;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+th,td,caption {
+  font-weight: normal;
+  vertical-align: top;
+  text-align: left;
+}
+@font-face
+{
+   	font-family: GlasgowMedium; /* Гарнитура шрифта */
+  	src: url(fonts/Glasgow-Medium.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face 
+{
+   	font-family: InterstatePlusBold; /* Гарнитура шрифта */
+   	src: url(fonts/InterstatePlus-Bold.ttf); /* Путь к файлу со шрифтом */
+}
+
+body 
+{
+	font-size: 13px;
+    font-family: 'Georgia', Arial, 'Liberation Sans', FreeSans, sans-serif;
+    line-height: 18px;
+    /* background: url(../img/bg.png) repeat 0 0; */
+    color: #5f5b50;
+	min-width: 1005px;
+}
+.wrapper
+{
+	background: url(../img/Body.png) no-repeat;
+	width: 1000px;
+	height: 2206px;
+	/*background: url(../img/bg-gradient.png) repeat-x -40px 0;*/
+	/* background-image: linear-gradient(#cccccc, transparent),
+	 linear-gradient(#ffffcc, transparent),
+	 linear-gradient(#ffcccc, transparent);
+	    padding-top: 0px; */
+}
+header 
+{
+	margin-left: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	height: 180px;
+	width: 960px;
+}
+.content1,.content2,.content3
+{
+	display: inline-block;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.content1
+{
+	width: 320px;
+	margin-top: 96px;
+}
+.logo h1
+{
+	font-size: 32px;
+	transform: scale(1.0, 1.2);
+	font-family: "GlasgowMedium", sans-serif;
+	text-align: right;
+	color: #660033;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.slogo p
+{
+	margin-top: 10px;
+	margin-right: 3px;
+	font-size: 12px;
+  	font-family: "Georgia", sans-serif;
+  	color: #999999;
+  	font-style: italic;
+  	text-align: right;
+  	text-shadow: 0.5px 0.866px 0px rgba(255, 255, 255, 0.5);
+}
+.content2
+{
+	width: 320px;
+}
+div.larticles
+{
+	margin-left: 64px;
+}
+.larticles h2{
+	margin-bottom: 11px;
+	font-weight: 600;
+  	font-size: 15px;
+  	font-family: "Arial";
+  	color: #660033;
+  	text-align: left;
+}
+
+.larticles a:link ,.larticles a:visited ,.larticles a:hover ,.larticles a:active {
+	font-size: 11px;
+  	font-family: "Georgia";
+  	color: #336666;
+  	font-style: italic;
+  	line-height: 1.9;
+  	text-align: justify,left;
+  	text-shadow: 0.5px 0.866px 0px rgba(255, 255, 255, 0.3);	
+}
+
+.content3
+{
+	width: 310px;
+}
+div.search
+{
+	bottom: 25px;
+	right: 50px;
+	position: relative;
+	background: transparent;
+}
+div.ssearch
+{
+	position: relative;
+	right: -50px;
+	bottom: 7px;                     
+}
+div.ssearch p 
+{
+	width: 200px;
+	font-size: 11px;
+  	font-family: "Georgia";
+  	color: rgb(167, 167, 167);
+  	font-style: italic;
+  	line-height: 1.364;
+  	text-align: right;
+}
+.search-icon
+{
+	background: url(../img/search-icon.png) no-repeat 0 0;
+	width: 23px;
+	height: 16px;
+	border: none;
+	color: transparent;
+	text-shadow: none;
+	background-color: transparent;
+	cursor: pointer;
+	border-radius: 5px;
+	margin: 0px 12px 12px 0;
+	position: relative;
+	left: 73px;
+}
+.search-input
+{
+	box-shadow: 1px 1px 2px #cccccc;
+	border: none;
+	margin: 0;
+    width: 195px;
+    height: 32px;
+    border-radius: 5px;
+    
+    position: relative;
+	left: 109px;
+}
+.search-input::placeholder {
+	padding-left: 11px;
+  font-size: 12px;
+  font-family: "Georgia";
+  color: rgb(139, 139, 139);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify,left;
+}
+
+nav
+{
+	margin-left: 16px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+/* 	height: 180px; */
+	width: 960px;
+}
+
+div.mainmenu
+{
+	overflow: hidden;
+	margin-top: -2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 825px;
+	background: linear-gradient(to bottom, #2f2f2f 0%,#101010 100%);
+	font-size: 15px;
+  	font-family: "HelveticaNeueCyr";
+  	color: rgb(237, 237, 237);
+  	line-height: 1.0;
+  	text-align: justify;
+  	text-shadow: 0.5px 0.866px 0px rgba(0, 0, 0, 0.5);
+  	list-style: none;
+  	display: block;
+  	height: 54px;
+  	transform: scale(1.0, 1.0);
+  	border: none;
+  	text-align: left;
+}
+.mainmenu a
+{
+	border-left: none;
+    border-top: none;
+    padding-top: 17px ;
+    line-height: 18px;
+    text-decoration: none;
+    color: #EDEDED;
+    font-size: 14px;
+    font-style: normal;
+    font-family: arial;
+    display: block;
+    position: relative;
+    cursor: pointer;
+    padding-right: 13px;
+    padding-bottom: 19px;
+}
+.mainmenu li
+{
+	background: transparent;
+	float: left;
+	position: relative;
+}
+.li1 a
+{
+	padding-left: 28px;
+}
+.li2 a, .li3 a, .li4 a, .li5 a
+{
+	padding-left: 16px;
+}
+.li3 a, .li4 a
+{
+	padding-right: 20px;
+	background-image: url(../img/redbutton2.png);
+    background-repeat: no-repeat;
+    background-position: 97% 50%;
+    display: block;
+}
+.li4 a
+{
+	padding-left: 10px;
+}
+.li5 a
+{
+	padding-left: 8px;
+}
+
+.mainmenu a:hover{
+	background: #7C0029;
+}
+
+.slider
+{
+	padding-left: 10px;
+	margin-left: 14px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 2px;
+	height: 260px;
+	width: 960px;
+	overflow: visible;
+}
+.slider-inside
+{
+	overflow: visible;
+	width: 825px;
+	height: 260px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.slider div
+{
+	margin-right: 13px;
+	margin-left: 13px;
+	float: left;
+}
+.slider-prev input
+{
+	background: url(../img/prev.png) no-repeat 0 0;
+	width: 21px;
+	height: 34px;
+    border: none;
+    color: transparent;
+    text-shadow: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+.slider-next input
+{
+	background: url(../img/next.png) no-repeat 0 0;
+	width: 21px;
+	height: 34px;
+	border: none;
+	color: transparent;
+	text-shadow: none;
+	background-color: transparent;
+	cursor: pointer;
+}
+.slider-prev, .slider-next
+{
+	padding-top: 88px;
+}
+
+
+.info
+{
+	box-sizing: border-box;
+	width: 960px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+	/* border-bottom:1px solid #C5BEAA; */
+}
+.left, .mid, .right
+{
+	height: 415px;
+	float: left;
+	box-sizing: border-box;
+	display: inline-block;
+	margin-top: 29px;
+}
+.left
+{
+	text-align: right;
+	margin-left: 64px;
+	margin-right: 0px;
+	width: 232px;
+}
+.mid
+{
+	background: #ffffff;
+	margin-left: 9px;
+	margin-right: 6px;
+	width: 345px;
+	height: 409px;
+	padding-top: 14px;
+	padding-left: 11px;
+	box-shadow: 1px 1px 2px #cccccc;
+	
+}
+.right
+{
+	margin-left: 0px;
+	margin-right: 64px;
+	width: 232px;	
+}
+div.left1,div.left2,div.left3,div.right1,div.right2,div.right3
+{
+	position: relative;
+		box-sizing: border-box;
+	display: inline-block;
+	height: 132px;
+	width: 232px;
+	margin-bottom: 6px;
+	display: inline-block;
+}
+
+div.left div.left1
+{
+	background-image: url(..//img/left1.jpg);
+	background-position: -4px -61px;
+}
+div.left div.left2
+{
+	background-image: url(../img/left2.jpg);
+	background-position: -11px -1px;
+}
+
+div.left div.left3
+{
+	background-image: url(../img/left3.jpg);
+	background-position: -14px -142px;
+}
+
+div.right div.right1
+{
+	background-image: url(..//img/right1.jpg);
+	background-position: -3px -33px;
+}
+div.right div.right2
+{
+	background-image: url(../img/right2.jpg);
+	background-position: -30px -10px;
+}
+
+div.right div.right3
+{
+	background-image: url(../img/right3.jpg);
+	background-position: -30px -105px;
+}
+div.mid div:nth-child(1)
+{
+	background-image: url(..//img/mid1.jpg);
+	background-position: -213px -37px;
+	display: inline-block;
+	border-radius: 1px;
+	width: 320px;
+	height: 225px;
+}
+div.mid div:nth-child(2)
+{
+	position: relative;
+	margin-top: 21px;
+    margin-left: 12px;
+}
+div.mid h2
+{
+	letter-spacing: -0.8px;
+  font-size: 23px;
+  font-family: "Arial";
+  color: #660033;
+  text-align: justify;
+}
+div.mid p
+{
+	padding-right: 27px;
+	margin-top: 15px;
+  font-size: 12px;
+  font-family: "Georgia";
+  color: rgb(43, 94, 94);
+  font-style: italic;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+div.left1 p, div.left2 p, div.left3 p,div.right1 p, div.right2 p,div.right3 p
+{
+ 	 letter-spacing: -0.2px;
+	background: black;
+	display: inline-block;
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  text-align: justify;
+}
+
+div.left1 p, div.left2 p, div.left3 p
+{
+	padding-left: 6px;
+	padding-right: 11px;
+	text-align: right;
+}
+
+div.right1 p, div.right2 p, div.right3 p
+{
+	padding-left: 8px;
+	padding-right: 11px;
+	text-align: left;
+}
+span
+{
+	padding: 5px;
+  	font-size: 10px;
+  	font-family: "InterstatePlus";
+  	color: rgb(43, 94, 94);
+  	text-transform: uppercase;
+	background: black;
+	color: white;
+	border-radius: 50%;
+}
+div.right1 div, div.right2 div,div.right3 div
+{
+	position: absolute;
+	bottom: 0;
+	padding: 5px;
+}
+div.left1 div, div.left2 div, div.left3 div
+{
+	position: absolute;
+	bottom: 0;
+	padding: 5px;
+	right: 0;
+}
+div.italy25
+{
+	position: absolute;
+	padding: 5px;
+    top: -7px;
+    left: 174px;
+}
+
+.more
+{
+	display: inline-block;
+	margin-left:  10px;
+	text-align: center;
+	width: 960px;
+}
+.moretxt
+{
+	padding-left: 13px;
+	padding-right: 13px;
+	display: inline-block;
+	width: 40px;
+	position: relative;
+}
+.moretxt p
+{
+	padding-left: 5px;
+  font-size: 12px;
+  font-family: "Georgia";
+  color: rgb(43, 94, 94);
+  font-style: italic;
+  line-height: 1.5;
+  text-align: justify;
+}
+.moretxt span
+{
+	font-weight: bolder;
+    transform: scale(1.8, 1.0);
+	position: absolute;
+	    top: -7px;
+    left: 50px;
+	background: transparent;
+	color: rgb(43, 94, 94);
+}
+.leftline
+{
+	display: inline-block;
+	width: 380px;
+	height: 1px;
+	border-top: 1px solid rgb(43, 94, 94);
+}
+.rightline
+{
+	display: inline-block;
+	width: 360px;
+	height: 1px;
+	border-top: 1px solid rgb(43, 94, 94);
+}

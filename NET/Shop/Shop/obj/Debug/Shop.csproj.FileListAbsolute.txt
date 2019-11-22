@@ -1,0 +1,12 @@
+D:\Nikita\!\c#\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Nikita\!\c#\Shop\Shop\bin\Debug\Shop.exe
+D:\Nikita\!\c#\Shop\Shop\bin\Debug\Shop.pdb
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.Form1.resources
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.exe
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.pdb
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.FormTable.resources
+D:\Nikita\!\c#\Shop\Shop\obj\Debug\Shop.FormUpdate.resources

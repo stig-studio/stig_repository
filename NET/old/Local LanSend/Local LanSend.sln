@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Local LanSend", "Local LanSend\Local LanSend.csproj", "{84B29597-8F73-4205-A399-3C7024317AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B29597-8F73-4205-A399-3C7024317AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B29597-8F73-4205-A399-3C7024317AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B29597-8F73-4205-A399-3C7024317AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B29597-8F73-4205-A399-3C7024317AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CDB8006-82CD-453F-92D7-BEDADB4668D9}
+	EndGlobalSection
+EndGlobal

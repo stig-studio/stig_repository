@@ -1,0 +1,45 @@
+
+
+.form_month {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 200px;
+    height: 100px;
+}
+
+.lbl_month {
+    margin-left: 15px;
+    font-size: 14px;
+}
+
+#list_months {
+    font-weight: bold;
+}
+
+.table_calendar {
+    margin-left: 50px;
+    background: #4169E1;
+    color: #fff;
+    font-size: 13px;
+}
+
+.table_calendar td {
+    text-align: center;
+    width: 29px;
+    height: 25px;
+}
+
+.table_calendar td:nth-child( 6 ) {
+    color: #DC143C;
+    font-weight: bold;
+}
+
+.table_calendar td:nth-child( 7 ) {
+    color: #DC143C;
+    font-weight: bold;
+}
+
+.curr_day {
+    background: #94A8FF;
+    border: 1px solid #696969;
+}

@@ -1,0 +1,9 @@
+C:\C#\ScanPort\ScanPort\bin\Debug\ScanPort.exe.config
+C:\C#\ScanPort\ScanPort\obj\Debug\ScanPort.csprojResolveAssemblyReference.cache
+C:\C#\ScanPort\ScanPort\obj\Debug\ScanPort.Form1.resources
+C:\C#\ScanPort\ScanPort\obj\Debug\ScanPort.Properties.Resources.resources
+C:\C#\ScanPort\ScanPort\obj\Debug\ScanPort.csproj.GenerateResource.Cache
+C:\C#\ScanPort\ScanPort\bin\Debug\ScanPort.exe
+C:\C#\ScanPort\ScanPort\bin\Debug\ScanPort.pdb
+C:\C#\ScanPort\ScanPort\obj\Debug\ScanPort.exe
+C:\C#\ScanPort\ScanPort\obj\Debug\ScanPort.pdb

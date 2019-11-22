@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<%- include( "./header.ejs" ) %>
+
+<body>
+
+    <div class="menu">
+        <ul>
+            <a href="/"><li class="menu_not_active">HOME</li></a>
+            <a href="/news"><li class="menu_not_active">NEWS</li></a>
+            <a href="/bands"><li class="menu_not_active">BANDS</li></a>
+            <a href="/about"><li class="menu_not_active">ABOUT US</li></a>
+            <% if( login_pers != "" ) { %>
+                <a href="/personal_area"><li class="menu_not_active"><%= login_pers %>( Личный кабинет )</li></a>
+            <% }
+            else {%>
+                <li class="menu_active">SIGN IN</li>
+            <% } %>
+            <input type="text" placeholder="search artist or song ...">
+        </ul>
+    </div>
+
+    <div class="form_signin">
+        <p>Please sign in</p>
+        <form action="" method="post">
+            <input name="login" type="text" placeholder="login" value="<%= login %>">
+            <input name="pass" type="password" placeholder="password" value="<%= pass %>">
+            <button type="submit">sign in</button>
+        </form>
+        <span><%= error %></span>
+    </div>
+
+    <%- include( "./footer.ejs" ) %>
+
+</body>
+</html>

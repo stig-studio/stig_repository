@@ -1,0 +1,9 @@
+1. create folder NodeJS
+3. cd NodeJS
+4. npm init
+5. npm i express mongoose body-parser --save
+6. create file db.js
+7. npm install -g nodemon
+8. create folder AngularApp
+9. cd AngularApp
+10. ng new AngularApp

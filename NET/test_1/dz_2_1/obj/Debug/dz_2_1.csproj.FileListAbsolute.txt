@@ -1,0 +1,9 @@
+D:\Nikita\!\c#\dz_2_1\dz_2_1\bin\Debug\dz_2_1.exe
+D:\Nikita\!\c#\dz_2_1\dz_2_1\bin\Debug\dz_2_1.pdb
+D:\Nikita\!\c#\dz_2_1\dz_2_1\obj\Debug\dz_2_1.csprojAssemblyReference.cache
+D:\Nikita\!\c#\dz_2_1\dz_2_1\obj\Debug\dz_2_1.Form1.resources
+D:\Nikita\!\c#\dz_2_1\dz_2_1\obj\Debug\dz_2_1.Properties.Resources.resources
+D:\Nikita\!\c#\dz_2_1\dz_2_1\obj\Debug\dz_2_1.csproj.GenerateResource.cache
+D:\Nikita\!\c#\dz_2_1\dz_2_1\obj\Debug\dz_2_1.csproj.CoreCompileInputs.cache
+D:\Nikita\!\c#\dz_2_1\dz_2_1\obj\Debug\dz_2_1.exe
+D:\Nikita\!\c#\dz_2_1\dz_2_1\obj\Debug\dz_2_1.pdb

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include( "./header.ejs" ) %>
+<body>
+
+    <div class="menu">
+        <ul>
+                <a href="/"><li class="menu_not_active">HOME</li></a>
+            <a href="/news"><li class="menu_not_active">NEWS</li></a>
+            <a href="/bands"><li class="menu_not_active">BANDS</li></a>
+            <li class="menu_active">ABOUT US</li>
+            <% if( login_pers != "" ) { %>
+                <a href="/personal_area"><li class="menu_not_active"><%= login_pers %>( Личный кабинет )</li></a>
+            <% }
+            else {%>
+                <a href="/signin"><li class="menu_not_active">SIGN IN</li></a>
+            <% } %>
+            <input type="text" placeholder="search artist or song ...">
+        </ul>
+    </div>
+
+    <div class="about_card">
+        <p>Developer: STIG</p>
+        <p><img src="/img/instagram.png" alt=""><a href="https://www.instagram.com/nik_sten/">https://www.instagram.com/nik_sten/</a></p>
+        <p><img src="/img/gmail.png" alt="">stigstudio@gmail.com</p>
+        <p><img src="/img/outlook.png" alt="">STIG-Studio@outlook.com</p>
+    </div>
+
+    <%- include( "./footer.ejs" ) %>
+</body>
+</html>

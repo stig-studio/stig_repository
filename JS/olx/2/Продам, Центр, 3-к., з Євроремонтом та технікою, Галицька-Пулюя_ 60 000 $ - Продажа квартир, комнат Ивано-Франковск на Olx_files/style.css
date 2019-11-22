@@ -1,0 +1,51 @@
+*{margin:0;padding:0;transition:.5s all}
+body{font-family:'Roboto',sans-serif}
+@keyframes pulse_animation {
+    0%{transform:scale(1)}
+    30%{transform:scale(1)}
+    40%{transform:scale(1.08)}
+    50%{transform:scale(1)}
+    60%{transform:scale(1)}
+    70%{transform:scale(1.05)}
+    80%{transform:scale(1)}
+    100%{transform:scale(1)}
+}
+.mainWrapper{position:relative;overflow:hidden;background-size:cover;background-repeat:no-repeat;transition:1s all}
+button {
+    position: absolute;
+    left: 50%;
+    margin-left: -65px;
+    width: 130px;
+    /*padding: 10px 20px;*/
+    color: #000;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0.17px;
+    background-color: #fff;
+    border: 0;
+    border-radius: 50px;
+    display: block;
+    cursor: pointer;
+    animation-name: pulse_animation;
+    animation-duration: 5000ms;
+    transform-origin:70% 70%;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+/*banner120x600*/
+.mainWrapper {
+    width: 970px;
+    height: 250px;
+    background-image: url('../img/bg1.jpg');
+    /*background-position: 50% 0;*/
+}
+.mainWrapper button {
+    top: 0;
+    height: 100%;
+    left: auto;
+    margin-left: 0;
+    right: 0;
+    border-radius: 0;
+    width: 50px;
+    background-color: #000;
+}

@@ -1,0 +1,27 @@
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee database.csprojAssemblyReference.cache
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\MainWindow.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\App.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\MainWindow.baml
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee database.csproj.GenerateResource.cache
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee database.csproj.CoreCompileInputs.cache
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\start_page.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\start_page.baml
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\bin\Debug\Employee database.exe.config
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\bin\Debug\Employee database.exe
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\bin\Debug\Employee database.pdb
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\main_page.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee database_MarkupCompile.cache
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee database_MarkupCompile.lref
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\main_page.baml
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee database.g.resources
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee_database.Properties.Resources.resources
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee database.exe
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\Employee database.pdb
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\users_page.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\users_page.baml
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\empl_page.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\empl_page.baml
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\add_empl_page.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\add_empl_page.baml
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\add_user_page.g.cs
+C:\Users\STIG\OneDrive\Классная работа\ADO\экзамен\Employee database\Employee database\obj\Debug\add_user_page.baml

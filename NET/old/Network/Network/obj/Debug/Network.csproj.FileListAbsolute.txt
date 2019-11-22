@@ -1,0 +1,9 @@
+C:\C#\Network\Network\bin\Debug\Network.exe.config
+C:\C#\Network\Network\bin\Debug\Network.exe
+C:\C#\Network\Network\bin\Debug\Network.pdb
+C:\C#\Network\Network\obj\Debug\Network.Form1.resources
+C:\C#\Network\Network\obj\Debug\Network.Properties.Resources.resources
+C:\C#\Network\Network\obj\Debug\Network.csproj.GenerateResource.Cache
+C:\C#\Network\Network\obj\Debug\Network.exe
+C:\C#\Network\Network\obj\Debug\Network.pdb
+C:\C#\Network\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache

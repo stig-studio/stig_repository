@@ -1,0 +1,22 @@
+{
+    "news": [
+        {
+            "title": "New track of Silverstein",
+            "img": "/img/silverstein_burn_it_down.jpg",
+            "descr": "Canadian emo/post-hardcore band Silverstein released a new track along with Beartooth band vocalist Caleb Shomo",
+            "date_time": "29.06.2019 14:58"
+        },
+        {
+            "title": "New track and clip of the band Korn",
+            "img": "/img/korn.jpg",
+            "descr": "American nu-metal band Korn has released a new track \"You’ll Never Find Me\", and also announced a new album. The album, which is scheduled for release on September 13, 2019, will be titled “The Nothing”. It will include 13 tracks, among which will be the released track.",
+            "date_time": "28.06.2019 19:17"
+        },
+        {
+            "title": "New track of Killswith Engage",
+            "img": "/img/killswith_engage.jpg",
+            "descr": "Metalcore band KILLSWITCH ENGAGE from the US state of Massachusetts will release a new album, \"Atonement\", on August 16 via Metal Blade Records in the USA and Sony Music Entertainment in the rest of the world. The first single from the disc, called \"Unleashed\". \"'Unleashed' is a song about inner passion and rage that comes to the surface,\" said vocalist Jesse Leach. “We all have this wild beginning, which often slumbers until some tragic event wakes him up. This song is about such an internal awakening. I think we managed to capture something unvarnished and intense in it, and I am delighted that everyone will hear it! The new album 'Atonement' is the embodiment of perseverance and passion despite the trials and sufferings of our existence.\"",
+            "date_time": "26.06.2019 22:44"
+        }
+    ]
+}

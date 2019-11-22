@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfDish xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dish>
+    <name>Блинчики с джемом</name>
+    <type>десерт</type>
+    <price>32</price>
+  </Dish>
+  <Dish>
+    <name>Блинчики с яблоками</name>
+    <type>десерт</type>
+    <price>32</price>
+  </Dish>
+  <Dish>
+    <name>Блинчики с творогом и изюмом</name>
+    <type>десерт</type>
+    <price>36</price>
+  </Dish>
+  <Dish>
+    <name>Блинчики с курицей и грибами</name>
+    <type>гарячее</type>
+    <price>38</price>
+  </Dish>
+  <Dish>
+    <name>Яичница глазунья</name>
+    <type>гарячее</type>
+    <price>32</price>
+  </Dish>
+  <Dish>
+    <name>Омлет с беконом и томатами</name>
+    <type>гарячее</type>
+    <price>36</price>
+  </Dish>
+  <Dish>
+    <name>Омлет с курицей и овощами</name>
+    <type>гарячее</type>
+    <price>36</price>
+  </Dish>
+  <Dish>
+    <name>Омлет с грибами и сыром</name>
+    <type>гарячее</type>
+    <price>36</price>
+  </Dish>
+  <Dish>
+    <name>Каша овсянка (курага, изюм)</name>
+    <type>гарячее</type>
+    <price>32</price>
+  </Dish>
+  <Dish>
+    <name>Сырники со сметаной</name>
+    <type>гарячее</type>
+    <price>36</price>
+  </Dish>
+  <Dish>
+    <name>Запеканка творожная с изюмом</name>
+    <type>гарячее</type>
+    <price>36</price>
+  </Dish>
+  <Dish>
+    <name>Творог со сметаной</name>
+    <type>гарячее</type>
+    <price>32</price>
+  </Dish>
+</ArrayOfDish>

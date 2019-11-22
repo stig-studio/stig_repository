@@ -1,0 +1,30 @@
+﻿tr:nth-child(even) {background: #BEBEBE}
+
+tr:hover {
+	background: #FFFF00;
+}
+
+.btn {
+	font-family: sans-serif;
+	width: 100px;
+	height: 30px;
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+	border: 1px solid #000;
+	line-height: 30px;
+	font-size: 12px;
+}
+
+.btn:hover {
+
+	background-color: #fff;
+	color: #000;
+	
+}
+
+.MySlider {
+	margin: auto;
+	width: 300px;
+	height: 200px;
+}

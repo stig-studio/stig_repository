@@ -1,0 +1,48 @@
+﻿<Window x:Class="Employee_database.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Employee_database"
+        mc:Ignorable="d"
+        Title="authorization" Height="643.03" Width="1007.686" WindowStyle="None" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="img/bg.jpg"/>
+        </Grid.Background>
+        <Grid Background="White" Width="250" Height="450">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Button Name="btn_close" Grid.Column="8" Grid.Row="0" Content="x" Background="Transparent" Width="25" Height="30" BorderBrush="Transparent" Click="btn_close_Click"/>
+            <Image Grid.Column="3" Grid.ColumnSpan="2" Grid.Row="0" Grid.RowSpan="4" Source="img/group_icon.png"/>
+            <Label Grid.Column="0" Grid.ColumnSpan="8" Grid.Row="3" Grid.RowSpan="2" Content="Enter login and password" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="16"/>
+            <Label Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="5" Content="Login" HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+            <TextBox Grid.Column="2" Grid.ColumnSpan="5" Grid.Row="5" Margin="5" Padding="5" Name="txtb_login"/>
+            <Label Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="6" Content="Password" HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+            <PasswordBox Grid.Column="2" Grid.ColumnSpan="5" Grid.Row="6" Margin="5" Padding="5" Name="txtb_pass"/>
+            <Button Grid.Column="4" Grid.Row="7" Grid.ColumnSpan="3" Margin="5" Content="SIGN IN" Background="#FF4FC3F7" FontSize="11" Foreground="White" Name="btn_sign_in" Click="btn_sign_in_Click"/>
+            <Label Grid.Column="0" Grid.ColumnSpan="8" Grid.Row="8" Content="" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="12" Foreground="Red" FontWeight="Bold" Name="lbl_msg"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+#sticky-footer {
+
+  flex-shrink: none;
+  background: #007BFF;
+  color: #ffffff;
+  font-size: 16px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}

@@ -1,0 +1,6 @@
+C:\Users\STIG\OneDrive\STIG\c#\JSON_Parser\JSON_Parser\bin\Release\JSON_Parser.dll
+C:\Users\STIG\OneDrive\STIG\c#\JSON_Parser\JSON_Parser\bin\Release\JSON_Parser.pdb
+C:\Users\STIG\OneDrive\STIG\c#\JSON_Parser\JSON_Parser\obj\Release\JSON_Parser.csproj.CoreCompileInputs.cache
+C:\Users\STIG\OneDrive\STIG\c#\JSON_Parser\JSON_Parser\obj\Release\JSON_Parser.dll
+C:\Users\STIG\OneDrive\STIG\c#\JSON_Parser\JSON_Parser\obj\Release\JSON_Parser.pdb
+C:\Users\STIG\OneDrive\STIG\c#\JSON_Parser\JSON_Parser\bin\Release\JSON_Parser.tlb

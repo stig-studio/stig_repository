@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "BMW",
+      "date": "07.07.2019",
+      "model": "CX5111",
+      "isSold": false
+    },
+    {
+      "id": 2,
+      "name": "Citroen",
+      "date": "07.06.2019",
+      "model": "C4",
+      "isSold": false
+    },
+    {
+      "name": "1",
+      "date": "15.07.19",
+      "model": "1",
+      "isSold": true,
+      "id": 3
+    }
+  ]
+}

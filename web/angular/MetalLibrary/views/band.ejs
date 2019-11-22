@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include( "./header.ejs" ) %>
+<body>
+    <div class="menu">
+        <ul>
+            <a href="/"><li class="menu_not_active">HOME</li></a>
+            <a href="/news"><li class="menu_not_active">NEWS</li></a>
+            <a href="/bands"><li class="menu_not_active">BANDS</li></a>
+            <a href="/about"><li class="menu_not_active">ABOUT US</li></a>
+            <% if( login_pers != "" ) { %>
+                <a href="/personal_area"><li class="menu_not_active"><%= login_pers %>( Личный кабинет )</li></a>
+            <% }
+            else {%>
+                <a href="/signin"><li class="menu_not_active">SIGN IN</li></a>
+            <% } %>
+            <input type="text" placeholder="search artist or genres">
+        </ul>
+    </div>
+
+    <div class="card_band">
+        <span>
+            <img src="/img/bands/<%= data.photo %>" alt="">
+            <span class="band_name">
+                <h1><%= data.band %></h1>
+                <br><span><%= data.genre %></span>
+            </span>
+        </span>
+        <span>
+            <%= data.descr %>
+        </span>
+        
+    </div>
+
+    <%- include( "./footer.ejs" ) %>
+
+</body>
+</html>

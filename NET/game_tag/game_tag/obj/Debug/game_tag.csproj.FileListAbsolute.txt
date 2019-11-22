@@ -1,0 +1,9 @@
+D:\Nikita\!\c#\game_tag\game_tag\bin\Debug\game_tag.exe
+D:\Nikita\!\c#\game_tag\game_tag\bin\Debug\game_tag.pdb
+D:\Nikita\!\c#\game_tag\game_tag\obj\Debug\game_tag.csprojAssemblyReference.cache
+D:\Nikita\!\c#\game_tag\game_tag\obj\Debug\game_tag.Form1.resources
+D:\Nikita\!\c#\game_tag\game_tag\obj\Debug\game_tag.Properties.Resources.resources
+D:\Nikita\!\c#\game_tag\game_tag\obj\Debug\game_tag.csproj.GenerateResource.cache
+D:\Nikita\!\c#\game_tag\game_tag\obj\Debug\game_tag.csproj.CoreCompileInputs.cache
+D:\Nikita\!\c#\game_tag\game_tag\obj\Debug\game_tag.exe
+D:\Nikita\!\c#\game_tag\game_tag\obj\Debug\game_tag.pdb

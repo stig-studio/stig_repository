@@ -1,0 +1,14 @@
+.form-horizontal {
+    margin-top: 20px;
+}
+
+.form-control {
+    width: 200px;
+}
+
+.blk_out {
+    display: block;
+    width: 500px;
+    height: 60px;
+    margin-left: 165px;
+}

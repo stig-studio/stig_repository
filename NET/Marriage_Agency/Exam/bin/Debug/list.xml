@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Client>
+    <full_name>Иванов Иван Иванович</full_name>
+    <dob>1 января 1981 г.</dob>
+    <sex>Мужчина</sex>
+    <country>Украина</country>
+    <city>Харьков</city>
+    <height>187</height>
+    <weight>85</weight>
+    <hair>Брюнет</hair>
+    <eye>Серый</eye>
+  </Client>
+  <Client>
+    <full_name>Карпова Юлия Сергеевна</full_name>
+    <dob>2 февраля 1982 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Киев</city>
+    <height>165</height>
+    <weight>50</weight>
+    <hair>Неопределен</hair>
+    <eye>Неопределен</eye>
+  </Client>
+  <Client>
+    <full_name>Абакумова Наталія Володимирівна</full_name>
+    <dob>3 марта 1983 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Тернополь</city>
+    <height>162</height>
+    <weight>51</weight>
+    <hair>Шатен</hair>
+    <eye>Карий</eye>
+  </Client>
+  <Client>
+    <full_name>Бабаев Андрей Николаевич</full_name>
+    <dob>4 апреля 1984 г.</dob>
+    <sex>Мужчина</sex>
+    <country>Украина</country>
+    <city>Днепропетровск</city>
+    <height>175</height>
+    <weight>70</weight>
+    <hair>Рыжий</hair>
+    <eye>Оливковый</eye>
+  </Client>
+  <Client>
+    <full_name>Жабко Илона Николаевна</full_name>
+    <dob>5 мая 1985 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Львов</city>
+    <height>168</height>
+    <weight>55</weight>
+    <hair>Брюнет</hair>
+    <eye>Голоубой</eye>
+  </Client>
+  <Client>
+    <full_name>Ивакин Владислав Геннадьевич</full_name>
+    <dob>6 июня 1986 г.</dob>
+    <sex>Мужчина</sex>
+    <country>Украина</country>
+    <city>Николаев</city>
+    <height>180</height>
+    <weight>80</weight>
+    <hair>Шатен</hair>
+    <eye>Серый</eye>
+  </Client>
+  <Client>
+    <full_name>Кабакова Татьяна Анатольевна</full_name>
+    <dob>7 июля 1987 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Одесса</city>
+    <height>170</height>
+    <weight>55</weight>
+    <hair>Блондин</hair>
+    <eye>Голоубой</eye>
+  </Client>
+  <Client>
+    <full_name>Савельев Роман Владимирович</full_name>
+    <dob>8 августа 1988 г.</dob>
+    <sex>Мужчина</sex>
+    <country>Украина</country>
+    <city>Кировоград</city>
+    <height>165</height>
+    <weight>65</weight>
+    <hair>Русый</hair>
+    <eye>Янтарный</eye>
+  </Client>
+  <Client>
+    <full_name>М'ячина Вита Валеріївна</full_name>
+    <dob>9 сентября 1989 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Луцк</city>
+    <height>170</height>
+    <weight>50</weight>
+    <hair>Брюнет</hair>
+    <eye>Зеленый</eye>
+  </Client>
+  <Client>
+    <full_name>Набожинская Лариса Олеговна</full_name>
+    <dob>10 октября 1990 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Харьков</city>
+    <height>165</height>
+    <weight>55</weight>
+    <hair>Рыжий</hair>
+    <eye>Синий</eye>
+  </Client>
+  <Client>
+    <full_name>Уварова Катерина Олександрівна</full_name>
+    <dob>11 ноября 1991 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Киев</city>
+    <height>180</height>
+    <weight>60</weight>
+    <hair>Русый</hair>
+    <eye>Карий</eye>
+  </Client>
+  <Client>
+    <full_name>Фадеев Ярослав Сергеевич</full_name>
+    <dob>12 декабря 1992 г.</dob>
+    <sex>Мужчина</sex>
+    <country>Украина</country>
+    <city>Кременчуг</city>
+    <height>175</height>
+    <weight>70</weight>
+    <hair>Брюнет</hair>
+    <eye>Желтый</eye>
+  </Client>
+  <Client>
+    <full_name>Давиденко Анжела Николаевна</full_name>
+    <dob>13 января 1993 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Змиев</city>
+    <height>160</height>
+    <weight>45</weight>
+    <hair>Рыжий</hair>
+    <eye>Карий</eye>
+  </Client>
+  <Client>
+    <full_name>Евдокимова Марина Владимировна</full_name>
+    <dob>14 февраля 1994 г.</dob>
+    <sex>Женщина</sex>
+    <country>Украина</country>
+    <city>Чернигов</city>
+    <height>165</height>
+    <weight>48</weight>
+    <hair>Блондин</hair>
+    <eye>Янтарный</eye>
+  </Client>
+  <Client>
+    <full_name>test test test</full_name>
+    <dob>1 марта 2000 г.</dob>
+    <sex>Мужчина</sex>
+    <country>test</country>
+    <city>test</city>
+    <height>160</height>
+    <weight>50</weight>
+    <hair>Блондин</hair>
+    <eye>Синий</eye>
+  </Client>
+</ArrayOfClient>

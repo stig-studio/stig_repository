@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfDish xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dish>
+    <name>Спагетти «Карбонара»</name>
+    <type>гарячее</type>
+    <price>118</price>
+  </Dish>
+  <Dish>
+    <name>Папарделле с семгой</name>
+    <type>гарячее</type>
+    <price>145</price>
+  </Dish>
+  <Dish>
+    <name>Спагетти "Песто"</name>
+    <type>гарячее</type>
+    <price>85</price>
+  </Dish>
+  <Dish>
+    <name>Таглиателле с белыми грибами</name>
+    <type>гарячее</type>
+    <price>125</price>
+  </Dish>
+  <Dish>
+    <name>Картофель с лесными грибами</name>
+    <type>гарячее</type>
+    <price>58</price>
+  </Dish>
+  <Dish>
+    <name>Картофель по-мадридски</name>
+    <type>гарячее</type>
+    <price>45</price>
+  </Dish>
+  <Dish>
+    <name>Картофель по-пастушьи</name>
+    <type>гарячее</type>
+    <price>40</price>
+  </Dish>
+  <Dish>
+    <name>Пататас Бравас</name>
+    <type>гарячее</type>
+    <price>40</price>
+  </Dish>
+  <Dish>
+    <name>Картофельное пюре</name>
+    <type>гарячее</type>
+    <price>40</price>
+  </Dish>
+  <Dish>
+    <name>Картофель Фри</name>
+    <type>гарячее</type>
+    <price>40</price>
+  </Dish>
+  <Dish>
+    <name>Запеканка творожная с изюмом</name>
+    <type>гарячее</type>
+    <price>40</price>
+  </Dish>
+  <Dish>
+    <name>Рис Парма</name>
+    <type>гарячее</type>
+    <price>40</price>
+  </Dish>
+</ArrayOfDish>

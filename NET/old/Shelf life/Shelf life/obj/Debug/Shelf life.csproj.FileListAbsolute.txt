@@ -1,0 +1,23 @@
+C:\C#\Shelf life\Shelf life\bin\Debug\Shelf life.exe.config
+C:\C#\Shelf life\Shelf life\bin\Debug\Shelf life.exe
+C:\C#\Shelf life\Shelf life\bin\Debug\Shelf life.pdb
+C:\C#\Shelf life\Shelf life\obj\Debug\Shelf life.csprojResolveAssemblyReference.cache
+C:\C#\Shelf life\Shelf life\obj\Debug\Shelf_life.Form1.resources
+C:\C#\Shelf life\Shelf life\obj\Debug\Shelf_life.Properties.Resources.resources
+C:\C#\Shelf life\Shelf life\obj\Debug\Shelf life.csproj.GenerateResource.Cache
+C:\C#\Shelf life\Shelf life\obj\Debug\Shelf life.exe
+C:\C#\Shelf life\Shelf life\obj\Debug\Shelf life.pdb
+C:\C#\Shelf life\Shelf life\obj\Debug\Shelf_life.FormSettings.resources
+C:\C#\Shelf life\Shelf life\obj\Debug\Shelf_life.FormMsg.resources
+C:\!\!\C#\Shelf life\Shelf life\bin\Debug\Shelf life.exe.config
+C:\!\!\C#\Shelf life\Shelf life\bin\Debug\Shelf life.exe
+C:\!\!\C#\Shelf life\Shelf life\bin\Debug\Shelf life.pdb
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf life.csprojResolveAssemblyReference.cache
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf_life.Form1.resources
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf_life.FormMsg.resources
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf_life.FormSettings.resources
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf_life.Properties.Resources.resources
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf life.csproj.GenerateResource.Cache
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf life.csproj.CoreCompileInputs.cache
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf life.exe
+C:\!\!\C#\Shelf life\Shelf life\obj\Debug\Shelf life.pdb

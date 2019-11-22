@@ -1,0 +1,10 @@
+E:\c#\test_graph\test_graph\bin\Debug\test_graph.exe.config
+E:\c#\test_graph\test_graph\bin\Debug\test_graph.exe
+E:\c#\test_graph\test_graph\bin\Debug\test_graph.pdb
+E:\c#\test_graph\test_graph\obj\Debug\test_graph.csprojAssemblyReference.cache
+E:\c#\test_graph\test_graph\obj\Debug\test_graph.Form1.resources
+E:\c#\test_graph\test_graph\obj\Debug\test_graph.Properties.Resources.resources
+E:\c#\test_graph\test_graph\obj\Debug\test_graph.csproj.GenerateResource.cache
+E:\c#\test_graph\test_graph\obj\Debug\test_graph.csproj.CoreCompileInputs.cache
+E:\c#\test_graph\test_graph\obj\Debug\test_graph.exe
+E:\c#\test_graph\test_graph\obj\Debug\test_graph.pdb
